@@ -1,2 +1,27 @@
 Öykü Elis Türegün - 21902976 - https://github.com/oykuelisturegun
 Sims4
+PS C:\Users\Lenovo\OneDrive\Masaüstü\githubtutorial\CS-102-Github-Tutorial> git log
+commit 7198ed376366006fa88dac753f6da5bbb5f12789 (HEAD -> solving_conflict, origin/solving_conflict)
+Author: Elis Türegün <elis.turegun@ug.bilkent.edu.tr>
+Date:   Wed Sep 29 18:38:59 2021 +0300
+
+    fixed
+
+commit a59d0f058a41ff8ffa449984ce78f86f32a5ebdd (main)
+Author: oykuelisturegun <85748767+oykuelisturegun@users.noreply.github.com>
+Date:   Wed Sep 29 18:21:51 2021 +0300
+
+    video_game_entered
+
+commit dbe81ffee0d65fb8c934865ef18f8b97f3334d9e
+Author: Elis Türegün <elis.turegun@ug.bilkent.edu.tr>
+Date:   Wed Sep 29 18:10:48 2021 +0300
+
+    Name_of_the_student updated info.txt
+
+commit fd66620b22dec5212218766a7e176c36038a5caa
+Author: oykuelisturegun <85748767+oykuelisturegun@users.noreply.github.com>
+Date:   Wed Sep 29 17:56:29 2021 +0300
+
+    Create README.md
+PS C:\Users\Lenovo\OneDrive\Masaüstü\githubtutorial\CS-102-Github-Tutorial>
